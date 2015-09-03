@@ -1,2 +1,6 @@
 whatever
+<<<<<<< HEAD
 this is gonna go wrong...
+=======
+problem is solved.
+>>>>>>> c7d66587d95b17ae404555bdbaf5899e1be3883e
